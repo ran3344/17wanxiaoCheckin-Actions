@@ -132,7 +132,6 @@ def get_post_json(self, token):
 6. 查看 `Actions` 运行情况，以及微信推送情况，至此每日六点多将会自行打卡
 
    
-
    ![](https://cdn.jsdelivr.net/gh/ReaJason/17wanxiaoCheckin-Actions/Pictures/check_status.png)
 
    
